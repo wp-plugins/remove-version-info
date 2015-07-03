@@ -1,20 +1,20 @@
 === Remove WordPress Version ===
-Contributors: Ashkar Sidheeque	
+Contributors: ShinoRex	
 Plugin Name: Remove WordPress Version
 Plugin URI: http://learnwebtipz.com/
 Tags: hide version, remove version, delete, hide, wordpress version, wordpress
 Author URI: http://learnwebtipz.com/
-Author: Ashkar Sidheeque
+Author: ShinoRex
 Donate link:
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1.0
 
-Remove the version from your WordPress website completely and Increase security and thwart potential hacks.
+Remove the version from your WordPress website completely and Increase security and prevent from hacks.
 
 == Description ==
 
-Remove the version from your WordPress website completely and Increase security and thwart potential hacks.
+Remove the version from your WordPress website completely and Increase security and prevent hacks.
 
 == Installation ==
 
