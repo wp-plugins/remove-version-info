@@ -1,4 +1,4 @@
-=== Remove Version ===
+=== Remove WordPress Version ===
 Contributors: Ashkar Sidheeque	
 Plugin Name: Remove WordPress Version
 Plugin URI: http://learnwebtipz.com/
