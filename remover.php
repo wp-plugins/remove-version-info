@@ -3,7 +3,7 @@
 Plugin Name: Remove Version Info
 Plugin URI: http://learnwebtipz.com/
 Description: Remove the version from your WordPress website completely and Increase security and thwart potential hacks.
-Author: Ashkar Sidheeque
+Author: ShinoRex
 Author URI: http://learnwebtipz.com/
 Version: 1.0
 */
