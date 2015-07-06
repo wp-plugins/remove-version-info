@@ -34,7 +34,7 @@ Yes.
 
 == Screenshots ==
 
-
+1. screenshot-1.png
 
 == Plugin Support ==
 
